@@ -1,0 +1,32 @@
+body {
+    background: #e7dec8;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 8rem;
+    margin-top: 5px;
+    color: #30475e;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.4rem;
+    color: #30475e;
+}
+
+.kuduText {
+    width: 65%;
+    margin-right: 50px;
+    float: right;
+}
+
+#kudu {
+    margin-left: 50px;
+    margin-top: 75px;
+    height: 325px;
+    width: 270px;
+    float: left;
+    border: solid 5px #7e8a97;
+}
